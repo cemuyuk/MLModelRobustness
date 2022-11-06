@@ -5,4 +5,6 @@ TUM Summer Semester 2022
 
 Machine Learning for Graphs and Sequential Data
 
-Project 2 on Robustness of Machine Learning Models
+Robustness of Machine Learning Models
+
+p.s. The content is only for demonstration purposes since the data / some utility scripts are not included in the repo.
